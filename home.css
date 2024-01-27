@@ -3,6 +3,32 @@
     margin: 0;
     padding: 0;
 }
+.namePage{
+    font-size: 24px;
+}
 .navLinks{
-    
+    background-color: #ef3837;
+    display: flex;
+    justify-content: space-between;
+    height: 5rem;
+    align-items: center;
+    padding: 1rem;
+}
+.navLinks li{
+    list-style: none;
+}
+.navLinks li a{
+    text-decoration: none;
+    color: black;
+}
+.navLinks li a:hover{
+    color: #f3b84f;
+}
+.responsiveBar{
+    display: block;
+}
+.bar{
+    height: 1rem;
+    width: 5rem;
+    color: black;
 }
