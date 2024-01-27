@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ h1{
+    text-align: center;
+    font-size: 40px;
+    margin: 2rem;
+ }
+ .scheduleTitle{
+    margin: 2rem;
+    text-align: center;
+ }
+ .foodRental{
+    margin: 2rem;
+    font-size: 20px;
+ }
+ .info{
+    margin: 2rem;
+    font-size: 24px;
+ }
+ .info li{
+    padding: 1rem;
+ }
+ 

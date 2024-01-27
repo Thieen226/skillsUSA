@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ .scheduleTitle{
+    margin: 2rem;
+    text-align: center;
+ }
+ .scheduleTime{
+    margin: 2rem;
+    font-size: 20px;
+ }
+ .scheduleTime li{
+    margin: 2rem;
+ }
+ 
